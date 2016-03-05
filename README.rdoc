@@ -1,6 +1,6 @@
 == README
 
-Coder Manual Project Application
+Coder Manual Project Applicationgi
 Subscription-based web application
 http://codermanual.com
 
